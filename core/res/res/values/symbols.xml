@@ -1754,4 +1754,9 @@
   <java-symbol type="bool" name="config_smsSamsungCdmaAlternateMessageIDEncoding" />
   <java-symbol type="bool" name="config_samsung_stk" />
 
+  <!-- Notification and Battery light -->
+  <java-symbol type="array" name="notification_light_package_mapping" />
+  <java-symbol type="bool" name="config_multiColorBatteryLed" />
+  <java-symbol type="bool" name="config_intrusiveBatteryLed" />
+
 </resources>
