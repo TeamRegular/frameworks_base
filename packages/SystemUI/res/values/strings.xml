@@ -522,4 +522,7 @@
     <!-- Torch tile -->
     <string name="quick_settings_torch_label">Torch</string>
 
+    <!-- Kill app toast -->
+    <string name="app_killed_message">App Killed</string>
+
 </resources>
